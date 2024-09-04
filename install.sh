@@ -13,4 +13,4 @@ cd /
 clear
 
 
-echo -e "Thanks for installing.
+echo -e "Thanks for installing"
