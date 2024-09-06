@@ -3,7 +3,7 @@
 
 START=90
 INTERFACE=br-lan
-PORT=1337
+PORT=1480
 
 # check if configuration exists
 [ -e "/etc/bdix.conf" ] || exit 0
